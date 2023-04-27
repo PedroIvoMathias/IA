@@ -165,7 +165,7 @@ with open('modelo_treinado.pkl', 'wb') as arquivo:
 
 """##Aplicação Web"""
 
-!pip install streamlit
+
 
 import streamlit as st
 import pandas as pd
